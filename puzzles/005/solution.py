@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 from collections.abc import Generator
 
 type _RList[U] = list[U | _RList[U]]

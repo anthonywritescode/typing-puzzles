@@ -1,6 +1,3 @@
-from __future__ import annotations
-
-
 class C:
     def name(self) -> str:
         return 'I am C!'

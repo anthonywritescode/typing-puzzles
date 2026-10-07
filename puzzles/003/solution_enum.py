@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 import enum
 from typing import Literal
 from typing import NamedTuple
