@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 _MISSING = sentinel('_MISSING')  # noqa: F821
 
 

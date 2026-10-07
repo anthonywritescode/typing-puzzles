@@ -1,6 +1,3 @@
-from __future__ import annotations
-
-
 def some_function(
         x: int,
         *,

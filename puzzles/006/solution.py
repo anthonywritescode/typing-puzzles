@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 import enum
 
 _MissingType = enum.Enum('_MissingType', 'MISSING')
